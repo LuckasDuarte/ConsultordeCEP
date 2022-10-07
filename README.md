@@ -1,14 +1,21 @@
-# APP de Consulta de CEP 
+# Consultor de Cep 
 
-<h2 align="center">Este projeto foi desenvlvido utilizando o React Native/Expo<h2>
- 
-  <h2>Se quiser saber mais desse Framework Incrível: </h2>
-  
-  <ul>
-  <li href="https://reactnavigation.org/docs/getting-started/" >React Native</li>
-  
-  </ul>
-  
-  <p align="center">README em Construção </p>
+Aplicativo desenvolvido para descobrir informações por meio do CEP fornecido.
+
+Foi utilizado o Framework [React Native](https://reactnative.dev/), onde se trata de uma ferramenta para desenvolvimento híbrido, onde o mesmo código da aplicação funciona tanto em sistemas Android e IOS.
+
+
+## Documentação da API usada
+
+[VIACEP](https://viacep.com.br/)
+
+
+## Screenshots
+<div align="center">
+  <img src="https://github.com/LuckasDuarte/ConsultordeCEP/blob/master/cep.png" width="300px"/>
+</div>
+
+
+
   
   
